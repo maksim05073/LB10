@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\LB10\LB10\bin\Debug\net9.0\LB10.exe
+C:\Users\ку\Desktop\proga\LB10\LB10\bin\Debug\net9.0\LB10.deps.json
+C:\Users\ку\Desktop\proga\LB10\LB10\bin\Debug\net9.0\LB10.runtimeconfig.json
+C:\Users\ку\Desktop\proga\LB10\LB10\bin\Debug\net9.0\LB10.dll
+C:\Users\ку\Desktop\proga\LB10\LB10\bin\Debug\net9.0\LB10.pdb
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\LB10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\LB10.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\LB10.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\LB10.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\LB10.dll
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\refint\LB10.dll
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\LB10.pdb
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\LB10.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\LB10\LB10\obj\Debug\net9.0\ref\LB10.dll
